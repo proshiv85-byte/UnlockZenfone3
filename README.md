@@ -147,6 +147,8 @@ python edl.py reset
 
 ---
 
+The guide and documentation are licensed under MIT. The binary files (aboot_engineering.bin, config_unlock.bin) are extracted from ASUS firmware and remain property of ASUS; they’re provided for interoperability purposes only.
+
 ## Credits
 
 - [bkerler/edl](https://github.com/bkerler/edl): Qualcomm EDL/Firehose client
